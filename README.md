@@ -1,5 +1,5 @@
 # blog-app-secrets
-This sample is part of the [How to manage passwords in ASP.NET Core configuration files tutorial](https://hodo.ro/posts/ost-05-aspnetcore-app-secrets/). See the tutorial for details.
+This sample is part of the [How to manage passwords in ASP.NET Core configuration files](https://hodo.ro/posts/post-05-aspnetcore-app-secrets/) tutorial. See the tutorial for details.
 
 ## Build and run
 
